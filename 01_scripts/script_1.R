@@ -4,3 +4,6 @@
  div <- x/y
  
  div + y
+ 
+ # Alternative
+ div - y
